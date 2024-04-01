@@ -12,8 +12,6 @@
 
 - 👯 I’m looking to collaborate on **any fullstack Projects**
 
-- 👨‍💻 All of my projects are available at [szczupakkrolempontaru.com](szczupakkrolempontaru.com)
-
 - 📫 How to reach me **szymonwydmuch1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
